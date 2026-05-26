@@ -149,6 +149,8 @@ p { margin: 0 0 14px; }
 .btn:hover { background: var(--emerald-dark); border-color: var(--emerald-dark); text-decoration: none; }
 .btn-outline { background: transparent; color: var(--slate) !important; border-color: var(--slate); }
 .btn-outline:hover { background: var(--slate); color: #fff !important; }
+.btn-outline-white { background: transparent; color: #fff !important; border: 1px solid rgba(255,255,255,0.75); }
+.btn-outline-white:hover { background: rgba(255,255,255,0.15); border-color: #fff; text-decoration: none; }
 .btn-light { background: #fff; color: var(--slate) !important; border-color: #fff; }
 .btn-light:hover { background: var(--slate-light); border-color: var(--slate-light); color: var(--slate) !important; }
 .btn-dark { background: var(--slate); border-color: var(--slate); color: #fff !important; }

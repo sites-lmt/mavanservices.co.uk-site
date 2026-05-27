@@ -14,12 +14,12 @@ const MAVAN = {
 
   // Leave empty until confirmed. Anything depending on these
   // will be hidden from the UI automatically.
-  phone:       "",                 // e.g. "+44 20 1234 5678"
-  phoneHref:   "",                 // e.g. "+442012345678"  (digits only, E.164)
+  phone:       "01784 618019",
+  phoneHref:   "+441784618019",
 
-  addressLine1: "",                // e.g. "1 King's Cross Square"
-  addressLine2: "",                // e.g. "London"
-  addressLine3: "",                // e.g. "N1C 4AG"
+  addressLine1: "The Willows, Stroude Road",
+  addressLine2: "Egham, TW20 9UW",
+  addressLine3: "United Kingdom",
   addressFull:  "",                // single-line; auto-derived below if blank
 
   hours:       "Mon–Fri, 9am–6pm UK time",
